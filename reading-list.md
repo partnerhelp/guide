@@ -1,5 +1,5 @@
 ---
-title: Reading List
+title: 상품등록 및 관리
 subtitle: a list of books I read
 layout: "page"
 icon: fa-book
