@@ -1,6 +1,0 @@
----
-layout: page
-title: 상품등록 및 관리
-icon: fa-pencil
-order: 3
----
