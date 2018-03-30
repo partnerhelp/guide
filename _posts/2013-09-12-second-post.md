@@ -1,6 +1,6 @@
 ---
 title: 회원정보관리
-author: Chris
+author: memebox
 layout: post
 ---
 
