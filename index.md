@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: 입점신청하기
-icon: fa-home
+icon: fa-book
 order: 1
 ---
