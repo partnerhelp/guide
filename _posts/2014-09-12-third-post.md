@@ -2,7 +2,7 @@
 title: 제안서관리
 author: Chris
 layout: post
-icon: fa-lightbulb-o
+icon: fa-file
 ---
 See the icon?
 
