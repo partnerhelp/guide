@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: 신규방문(비회원)
+title: 입점신청하기
 icon: fa-home
 order: 1
 ---
