@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 상품등록 및 정책
+subtitle: 상품개시절차와 콘텐츠정책에 대한 설명
 layout: "page"
 icon: fa-book
 order: 3
