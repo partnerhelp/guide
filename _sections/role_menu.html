@@ -5,47 +5,90 @@ order: 3
 layout : post
 ---
 <!-- Text stuff -->
+<div align="left">
 <!-- Lists -->
 입점신청하기>파트너계정 정책에서 설명드린 것과 같이<br/>파트너는 전자계약 체결상태를 기준으로 임시파트너와 정규파트너로 구분됩니다.<br/><br/>
 전자계약을 체결했다가 기간이 지나 종료된 파트너일 경우, <br/>정규파트너일 때 보였던 메뉴들이 일부 미노출 됩니다.<br/>
 재계약을 체결하면 다시 정규파트너의 권한을 갖게 됩니다.<br/><br/>
 계정의 권한별로 볼 수 있는 메뉴들은 아래와 같습니다.
-	<div class="row">
-		<div class="6u 12u$(small)">
-			<h3>정규파트너</h3>
-			<ul>
-				<li>대쉬보드</li>
-				<li>주문관리</li>
-				<li>상품관리</li>
-				<li>정산관리</li>
-				<li>주문전송내역</li>
-				<li>공지사항</li>
-				<li>광고신청</li>
-				<li>레포트</li>
-				<li>딜 관리</li>
-				<li>회원정보관리</li>
-			</ul>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<h3>임시파트너</h3>
-			<ul>
-				<li>대쉬보드</li>
-				<li>제안서관리</li>
-				<li>회원정보관리</li>
-			</ul>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<h3>계약종료된 임시파트너</h3>
-			<ul>
-				<li>대쉬보드</li>
-				<li>정산관리</li>
-				<li>공지사항</li>
-				<li>회원정보관리</li>
-			</ul>
-		</div>
-		
+	
+	<!-- Table -->
+	<h2>Table</h2>
+	<div class="table-wrapper">
+		<table>
+			<thead>
+				<tr>
+					<th>정규파트너</th>
+					<th>계약종료된 임시파트너</th>
+					<th>임시파트너</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>대쉬보드</td>
+					<td>대쉬보드</td>
+					<td>대쉬보드</td>
+				</tr>
+				<tr>
+					<td>회원정보관리</td>
+					<td>회원정보관리</td>
+					<td>회원정보관리</td>
+				</tr>
+				<tr>
+					<td>공지사항</td>
+					<td>공지사항</td>
+					<td>제안서관리</td>
+				</tr>
+				<tr>
+					<td>정산관리</td>
+					<td>정산관리</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>공지사항</td>
+					<td>공지사항</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>주문관리</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>상품관리</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>주문전송내역</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>광고신청</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>레포트</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>딜관리</td>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="2"></td>
+					<td>100.00</td>
+				</tr>
+			</tfoot>
+		</table>
 	</div>
-<p>
-<p>임시파트너(신규) 대쉬보드<span class="image center"><img src="{{ 'assets/images/dashboard01.png' | relative_url }}" alt="" width="1200"/></span>
-<br/><p>정규파트너 대쉬보드<span class="image center"><img src="{{ 'assets/images/dashboard02.png' | relative_url }}" alt="" width="1200"/></span>
-		
+	
+	<hr />
+	<!--table end-->	
+</div>
