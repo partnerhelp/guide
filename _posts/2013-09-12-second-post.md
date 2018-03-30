@@ -1,5 +1,5 @@
 ---
-title: Second Post
+title: 회원정보관리
 author: Chris
 layout: post
 ---
